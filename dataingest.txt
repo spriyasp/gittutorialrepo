@@ -1,2 +1,6 @@
 this is data ingest1
+<<<<<<< HEAD
 master commit 
+=======
+updating for costdetails issue 
+>>>>>>> costdetailsdefect
