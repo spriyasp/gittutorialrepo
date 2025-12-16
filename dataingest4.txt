@@ -1,2 +1,2 @@
 select * from dual;
-dual and  more data
+dual and  more datafixing the code for defect -spdev
