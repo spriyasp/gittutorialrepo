@@ -1,3 +1,4 @@
 select * from dual;
-dual and  more data
+dual and  more data 
+fixing the code for defect -spdev
 fixing by teamlead mk
